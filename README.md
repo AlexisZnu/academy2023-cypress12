@@ -69,4 +69,4 @@ A typical Cypress project usually looks like this
  Run Cypress:  .\node_modules\.bin\cypress open
  
  Optional runners: npm run cy:open              
-                   npm run cy:run
+                   npm run cy:run 

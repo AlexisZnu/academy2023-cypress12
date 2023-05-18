@@ -8,7 +8,7 @@
     "cy:spec": "cypress run --spec **/*.spec.js",
     "cy:reporter": "./node_modules/.bin/cypress run --reporter reporters/lippia-reporter/lippia-reporter.js",
     "cy:local": "./node_modules/.bin/cypress run",
-    "cy:run": "cypress run --record --key 549742ad-dc41-4f90-99b5-f6c1d4ba99a0"
+    "cy:run": "cypress run --record --key 72a8722c-8cff-4de3-a0ce-cc6a7e9a948b"
   },
   "keywords": [
     "Cypress",
@@ -21,7 +21,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "12.11.0",
+    "cypress": "^12.11.0",
     "cypress-mochawesome-reporter": "3.1.0",
     "cypress-multi-reporters": "1.5.0",
     "mocha-junit-reporter": "2.0.2"
